@@ -18,4 +18,9 @@ run track.py file: python track.py
 [results](https://drive.google.com/drive/folders/1PmNKGFo-UP7ZZ5SrTcYdr8VUv9TvGJkB?usp=sharing)
 =======
 # Multi_object_tracking_vision
+Datalink and References    
+    Multi-Object Tracking Wiki: https://en.wikipedia.org/wiki/Multiple_object_tracking
+    Multi-Object Tracking papers and Codes: https://paperswithcode.com/task/multi-object-tracking
+    Learn OpenCV: https://learnopencv.com/multitracker-multiple-object-tracking-using-opencv-c-python/
+    MOT Challenge: https://motchallenge.net/
 
